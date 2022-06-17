@@ -1,0 +1,14 @@
+[
+  {
+    "package": "ARTool",
+    "oncran": true
+  },
+  {
+    "package": "ggdist",
+    "oncran": true
+  },
+  {
+    "package": "tidybayes",
+    "oncran": true
+  }
+]

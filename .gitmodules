@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ARTool"]
+	path = ARTool
+	url = https://github.com/mjskay/artool
+	shallow = true
+	registered = true
+[submodule "ggdist"]
+	path = ggdist
+	url = https://github.com/mjskay/ggdist
+	shallow = true
+	registered = true
+[submodule "tidybayes"]
+	path = tidybayes
+	url = https://github.com/mjskay/tidybayes
+	shallow = true
+	registered = true
