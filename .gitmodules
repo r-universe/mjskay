@@ -8,6 +8,11 @@
 	url = https://github.com/mjskay/artool
 	shallow = true
 	registered = true
+[submodule "ggblend"]
+	path = ggblend
+	url = https://github.com/mjskay/ggblend
+	shallow = true
+	registered = true
 [submodule "ggdist"]
 	path = ggdist
 	url = https://github.com/mjskay/ggdist
